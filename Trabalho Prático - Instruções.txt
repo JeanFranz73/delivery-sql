@@ -1,0 +1,4 @@
+1. Deve ser criado um schema chamado "delivery", e dentro dele deve ser importado o dump.
+2. Após isso, devem ser desenvolvidas as atividades das questões do arquivo "Trabalho Prático - Questões".
+Pode ser consutado o gabarito no arquivo "Trabalho Prático - Gabarito".
+3. O funcionamento do banco de dados pode ser visualizado na imagem "delivery"
